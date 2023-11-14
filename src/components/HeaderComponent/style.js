@@ -21,11 +21,11 @@ export const WrapperHeaderAccount = styled.div`
     align-items: center;
     color: #fff;
     gap: 10px;
-    font-size: 12px;
+    font-size: 15px;
 `
 
 export const WrapperTextHeaderSmall = styled.span`
-    font-size: 12px;
+    font-size: 15px;
     color: #fff;
 `
 
